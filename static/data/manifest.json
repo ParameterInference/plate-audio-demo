@@ -64,7 +64,6 @@
       "key": "raw_fusion",
       "label": "Fusion (raw)",
       "kind": "Fusion",
-      "sourceDir": "6vvvo4wr-theta-audio-pairs",
       "metrics": {
         "mss": 4.811552075472884,
         "mel_spectral_convergence": 1.6731672160172908,
@@ -78,7 +77,6 @@
       "key": "recip_canon",
       "label": "Fusion (rec.)",
       "kind": "Fusion",
-      "sourceDir": "tsrp175n-theta-audio-pairs",
       "metrics": {
         "mss": 4.179384372867287,
         "mel_spectral_convergence": 1.8987058517822908,
@@ -92,7 +90,6 @@
       "key": "reflect_canon",
       "label": "Fusion(ref.)",
       "kind": "Fusion",
-      "sourceDir": "927adx96-theta-audio-pairs",
       "metrics": {
         "mss": 3.558629872983219,
         "mel_spectral_convergence": 1.0851728248071855,
@@ -106,7 +103,6 @@
       "key": "combined_canon",
       "label": "Fusion(cmb.)",
       "kind": "Fusion",
-      "sourceDir": "xrs71tl3-theta-audio-pairs",
       "metrics": {
         "mss": 3.0086849015799593,
         "mel_spectral_convergence": 0.8394561686698189,
@@ -120,7 +116,6 @@
       "key": "cfm_mlp_raw",
       "label": "R-CFM(raw)",
       "kind": "R-CFM",
-      "sourceDir": "jaif6bs7-cfm-audio-pairs",
       "metrics": {
         "mss": 2.426462367779451,
         "mel_spectral_convergence": 0.5632464487922021,
@@ -134,7 +129,6 @@
       "key": "cfm_token_raw",
       "label": "T-CFM(raw)",
       "kind": "T-CFM",
-      "sourceDir": "65mac0uy-cfm-audio-pairs",
       "metrics": {
         "mss": 3.039749651949982,
         "mel_spectral_convergence": 0.684482619727848,
